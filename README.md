@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+floating 버튼을 누르면 숫자가 증가
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
